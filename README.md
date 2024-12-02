@@ -1,2 +1,1 @@
-# advent-of-code-2024
-https://adventofcode.com/2024/day/1
+Moved to https://github.com/joshmgross/advent-of-code
